@@ -14,6 +14,8 @@
 
 <!-- Any extra notes -->
 
-## History 
+## History
 
 <!-- Keep this updated earlier to latest -->
+
+- **2026-03-23**: Scaffolded project — removed Next.js boilerplate, set up clean `page.tsx` with "Dev Stash" heading, added context files and CLAUDE.md, pushed initial commit to GitHub (`adevenuto/DevStash`).
